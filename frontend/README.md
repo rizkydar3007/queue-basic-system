@@ -1,4 +1,4 @@
-# queue-test-node-vue-mongo
+# frontend
 
 ## Project setup
 ```
